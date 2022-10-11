@@ -1,8 +1,8 @@
-package com.example.mvitest
+package com.example.mvitest.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.mvitest.ui.MainFragment
+import com.example.mvitest.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

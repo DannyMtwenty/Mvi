@@ -1,4 +1,4 @@
-package com.example.mvitest.ui
+package com.example.mvitest.ui.main
 
 import android.os.Bundle
 import android.view.*
