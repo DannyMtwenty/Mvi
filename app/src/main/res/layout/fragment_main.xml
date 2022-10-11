@@ -64,7 +64,7 @@
                     android:layout_height="wrap_content"
                     android:id="@+id/username"
                     android:textColor="#000"
-                    android:hint="Your username"
+                    android:hint="Your Username"
                     android:textSize="20sp"
                     />
 
