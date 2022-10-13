@@ -5,6 +5,6 @@ import com.example.mvitest.models.User
 
 //wrapper for the blog post and user
 data class MainViewState(
-    val blogLists: List<BlogPost> ? = null,
-    val user : User? = null,
+    var blogLists: List<BlogPost> ? = null,
+    var user : User? = null,
 )
